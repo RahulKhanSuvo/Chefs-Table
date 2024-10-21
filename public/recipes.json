@@ -1,0 +1,94 @@
+{
+  "recipes": [
+    {
+      "recipe_id": 1,
+      "recipe_name": "Grilled Chicken with Basil",
+      "short_description": "A flavorful grilled chicken dish with fresh basil.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories",
+      "image": "https://i.ibb.co/XzWJ7DK/Grilled-Lemon-Basil-Chicken-l-Simply-Scratch-com-grilling-lemon-basil-chicken-dinner-easy-recipe-9.jpg"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Vegetable Stir-fry",
+      "short_description": "A healthy stir-fry packed with fresh veggies.",
+      "ingredients": [
+        "300 g broccoli",
+        "200 g bell pepper",
+        "150 g carrot",
+        "100 g snow peas",
+        "50 ml soy sauce"
+      ],
+      "preparing_time": "25 min",
+      "calories": "250 calories",
+      "image": "https://i.ibb.co/WFnrLNH/Vegetable-Stir-Fry-10.webp"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "Classic Italian pasta with creamy sauce and bacon.",
+      "ingredients": [
+        "400 g spaghetti",
+        "200 g bacon",
+        "2 eggs",
+        "100 g parmesan cheese",
+        "100 ml cream"
+      ],
+      "preparing_time": "20 min",
+      "calories": "450 calories",
+      "image": "https://i.ibb.co/TqPQ9sF/IMG-4807.jpg"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Avocado Toast",
+      "short_description": "A simple and nutritious avocado toast recipe.",
+      "ingredients": [
+        "2 slices of bread",
+        "1 avocado",
+        "1 tbsp olive oil",
+        "1 tsp lemon juice",
+        "Salt and pepper"
+      ],
+      "preparing_time": "10 min",
+      "calories": "220 calories",
+      "image": "https://i.ibb.co/qBptT8Z/merlin-141110271-8685e17e-0470-4bab-8fc8-ff7262cc98ec-super-Jumbo.jpg"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Beef Tacos",
+      "short_description": "Delicious tacos with seasoned beef and fresh toppings.",
+      "ingredients": [
+        "400 g ground beef",
+        "1 pack taco shells",
+        "100 g lettuce",
+        "100 g tomato",
+        "50 g cheese",
+        "50 ml sour cream"
+      ],
+      "preparing_time": "35 min",
+      "calories": "400 calories",
+      "image": "https://i.ibb.co/h1wPWG4/Beef-Tacos.jpg"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Banana Pancakes",
+      "short_description": "Fluffy pancakes made with ripe bananas.",
+      "ingredients": [
+        "2 ripe bananas",
+        "150 g flour",
+        "2 eggs",
+        "100 ml milk",
+        "1 tsp baking powder"
+      ],
+      "preparing_time": "15 min",
+      "calories": "290 calories",
+      "image": "https://example.com/banana-pancakes.jpg"
+    }
+  ]
+}
