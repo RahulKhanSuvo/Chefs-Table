@@ -4,7 +4,7 @@ const NavBar = () => {
   return (
     <nav className="flex font-Lexend items-center justify-between ">
       {/* Left Section */}
-      <h3 className="flex-1 text-xl font-bold">Recipe Calories</h3>
+      <h3 className="flex-1 text-xl font-bold">Chefs Table</h3>
 
       {/* Center Section */}
       <div className="flex-1 flex items-center justify-center gap-6">

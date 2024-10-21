@@ -1,5 +1,5 @@
-{
-  "recipes": [
+
+ [
     {
       "recipe_id": 1,
       "recipe_name": "Grilled Chicken with Basil",
@@ -10,8 +10,8 @@
         "200 g basil leaf",
         "400 g mushroom"
       ],
-      "preparing_time": "30 min",
-      "calories": "320 calories",
+      "preparing_time": 30,
+      "calories": 320,
       "image": "https://i.ibb.co/XzWJ7DK/Grilled-Lemon-Basil-Chicken-l-Simply-Scratch-com-grilling-lemon-basil-chicken-dinner-easy-recipe-9.jpg"
     },
     {
@@ -25,8 +25,8 @@
         "100 g snow peas",
         "50 ml soy sauce"
       ],
-      "preparing_time": "25 min",
-      "calories": "250 calories",
+      "preparing_time": 25,
+      "calories": 250 ,
       "image": "https://i.ibb.co/WFnrLNH/Vegetable-Stir-Fry-10.webp"
     },
     {
@@ -40,8 +40,8 @@
         "100 g parmesan cheese",
         "100 ml cream"
       ],
-      "preparing_time": "20 min",
-      "calories": "450 calories",
+      "preparing_time": 20,
+      "calories": 450,
       "image": "https://i.ibb.co/TqPQ9sF/IMG-4807.jpg"
     },
     {
@@ -55,8 +55,8 @@
         "1 tsp lemon juice",
         "Salt and pepper"
       ],
-      "preparing_time": "10 min",
-      "calories": "220 calories",
+      "preparing_time": 10,
+      "calories": 220 ,
       "image": "https://i.ibb.co/qBptT8Z/merlin-141110271-8685e17e-0470-4bab-8fc8-ff7262cc98ec-super-Jumbo.jpg"
     },
     {
@@ -71,7 +71,7 @@
         "50 g cheese",
         "50 ml sour cream"
       ],
-      "preparing_time": "35 min",
+      "preparing_time": "35",
       "calories": "400 calories",
       "image": "https://i.ibb.co/h1wPWG4/Beef-Tacos.jpg"
     },
@@ -86,9 +86,8 @@
         "100 ml milk",
         "1 tsp baking powder"
       ],
-      "preparing_time": "15 min",
-      "calories": "290 calories",
-      "image": "https://example.com/banana-pancakes.jpg"
+      "preparing_time": 15,
+      "calories": 290,
+      "image": "https://i.ibb.co/dKCBvJ2/banana-pancakes.jpg"
     }
   ]
-}

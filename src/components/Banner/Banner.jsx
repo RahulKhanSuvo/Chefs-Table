@@ -1,15 +1,15 @@
-import banner from "../../assets/ai-generated-8520995.png";
+import banner from "../../assets/Rectangle 1.png";
 
 const Banner = () => {
   return (
     <div
-      className="h-full rounded-3xl w-full bg-cover mt-14 mb-24  object-cover text-center"
+      className=" rounded-3xl w-full bg-cover mt-14 mb-24  object-cover text-center"
       style={{
-        backgroundImage: `linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(${banner})`,
+        backgroundImage: `url(${banner})`,
       }}
     >
-      <div className="h-full w-full py-32 flex flex-col items-center justify-center text-white">
-        <h3 className="text-5xl mb-6">
+      <div className="h-full font-Lexend w-full py-32 flex flex-col items-center justify-center text-white">
+        <h3 className="text-5xl font-bold mb-6">
           Discover an exceptional cooking <br /> class tailored for you!
         </h3>
         <p className="mb-8 text-lg px-4 max-w-2xl leading-relaxed">
