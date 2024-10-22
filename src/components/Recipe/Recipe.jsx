@@ -11,7 +11,7 @@ const Recipe = ({ recipe, addRecipeQueue }) => {
   } = recipe;
   return (
     <div>
-      <div className="card  h-full w-full border">
+      <div className="card shadow-lg h-full  border">
         <figure className="px-6 pt-6">
           <img
             className="h-64 w-full object-fill rounded-xl"

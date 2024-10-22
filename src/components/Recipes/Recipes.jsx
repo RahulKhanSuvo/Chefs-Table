@@ -10,13 +10,13 @@ const Recipes = ({ addRecipeQueue }) => {
       .then((data) => setRecipes(data));
   }, []);
   return (
-    <div className="md:w-2/3">
+    <div className=" md:2/3  ">
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
         {recipes.map((recipe) => (
           <Recipe
             addRecipeQueue={addRecipeQueue}
             recipe={recipe}
-            key={recipe.id}
+            key={recipe.recipe_id}
           ></Recipe>
         ))}
       </div>
