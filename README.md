@@ -49,6 +49,8 @@
 - **Contributors** – Contributions are welcome! Feel free to submit a pull request.
 
 ---
+## 📺 Live Link 
+[chef's Table](https://dazzling-gecko-3b050e.netlify.app/)
 
 ## 📄 License
 
