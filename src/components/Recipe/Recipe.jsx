@@ -1,6 +1,6 @@
 import { CiClock2 } from "react-icons/ci";
 import { AiOutlineFire } from "react-icons/ai";
-const Recipe = ({ recipe }) => {
+const Recipe = ({ recipe, addRecipeQueue }) => {
   const {
     image,
     recipe_name,
@@ -11,7 +11,7 @@ const Recipe = ({ recipe }) => {
   } = recipe;
   return (
     <div>
-      <div className="card  w-full border">
+      <div className="card  h-full w-full border">
         <figure className="px-6 pt-6">
           <img
             className="h-64 w-full object-fill rounded-xl"
@@ -45,7 +45,10 @@ const Recipe = ({ recipe }) => {
             </div>
           </div>
           <div className="card-actions justify-start">
-            <button className="btn rounded-full font-Lexend font-semibold px-6 bg-[#0BE58A]">
+            <button
+              onClick={() => addRecipeQueue(recipe)}
+              className="btn rounded-full font-Lexend font-semibold px-6 bg-[#0BE58A]"
+            >
               Want to Cook
             </button>
           </div>
